@@ -59,3 +59,5 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 }
+
+//Megtörténtek a javítások. Ez már a Pull request feladat része :3
